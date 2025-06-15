@@ -34,11 +34,11 @@ Follow these steps to run the Task Manager App locally:
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/sayan365/to-do-list.git
    ```
 2. **Navigate to the Project Folder**:
    ```bash
-   cd task-manager
+   cd to-do-list
    ```
 3. **Open the App**:
    - Open `index.html` in your browser (e.g., double-click the file or use a local server).
