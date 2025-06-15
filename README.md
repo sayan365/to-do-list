@@ -49,7 +49,7 @@ Follow these steps to run the Task Manager App locally:
 Here's an overview of the project files:
 
 ```
-task-manager/
+to-do-list/
 ├── index.html       # Main HTML file 🏠
 ├── style.css        # CSS styles for the app 🎨
 ├── app.js           # JavaScript logic for interactivity ⚙️
