@@ -134,7 +134,6 @@ function render() {
     html = `
       <div class='text-center text-gray-500 bg-white rounded-lg p-6 shadow'>
         <p>No ${filter} tasks found.</p>
-        <button onclick="openModal()" class="mt-4 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">+ Add Task</button>
       </div>`;
   } else {
     html = filteredTasks.map((task, i) => {
